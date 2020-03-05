@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Selamat Datang di Website Drupal ID Resources
 
-You can use the [editor on GitHub](https://github.com/drupal-id/resources/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Website ini menampilkan semua rekaman video dari meetup-meetup, session-session, pertemuan-pertemuan, dsb yang sudah pernah di organise sebelumnya, untuk keperluan dokumentasi dan menjadi bahan rujukan untuk pembelajaran yang berkaitan dengan Drupal.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bagi semua anggota komunitas Drupal, di perkenankan ber-kontribusi untuk meng-update website ini.
+Silahkan **Fork**, dan submit **Pull Request** ke repo ini jika ingin berkontribusi.
 
-### Markdown
+Terima kasih.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Meetup Drupal Indonesia di Februari 2020
 
-```markdown
-Syntax highlighted code block
+**Waktu:** Selasa, 25 Februari 2020 19.00 - 21.00 <br />
+**Tempat:** Alterra Indonesia <br />
+Jl. Setia Budi Tengah No.37, RT.2/RW.3, Kuningan, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910, Indonesia
 
-# Header 1
-## Header 2
-### Header 3
+**Topik:**
+- OpenStreetMap @Drupal by Yantisa Akhadi, Country Manager Humanitarian OpenStreetMap Team Indonesia
+- Big Data with Drupal by Bayu Setiawan, Lead Data Engineer, Alterra
 
-- Bulleted
-- List
+**Link Meetup:** [Tautan](https://www.facebook.com/events/3314669618548901/)
 
-1. Numbered
-2. List
+**Sumber Video:** [Tautan](https://zoom.us/rec/play/tZd-I-38qDo3HNTA5ASDCqN7W425Jqus1ylP-PBcnRm9UiUBZwbyY7IbNrYwSh7fi0lKxPVTETtVOIak?continueMode=true)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Meetup Drupal Indonesia di Februari 2020
 
-### Jekyll Themes
+**Waktu:** Selasa, 30 Januari 2020 19.00 - 21.00 <br />
+**Tempat:** Alterra Indonesia <br />
+Jl. Setia Budi Tengah No.37, RT.2/RW.3, Kuningan, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910, Indonesia
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drupal-id/resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Topik:**
+- Optimasi Drupal Commerce (Scalable Marketplace).
+- Road map kegiatan komunitas di tahun 2020.
+- Networking.
 
-### Support or Contact
+**Link Meetup:** [Tautan](https://www.facebook.com/events/563397524388498/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Sumber Video:** [Tautan](https://www.facebook.com/events/563397524388498/permalink/572761176785466/)
