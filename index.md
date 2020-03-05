@@ -3,7 +3,7 @@
 Website ini menampilkan semua rekaman video dari meetup-meetup, session-session, pertemuan-pertemuan, dsb yang sudah pernah di organise sebelumnya, untuk keperluan dokumentasi dan menjadi bahan rujukan untuk pembelajaran yang berkaitan dengan Drupal.
 
 Bagi semua anggota komunitas Drupal, di perkenankan ber-kontribusi untuk meng-update website ini.
-Silahkan hubungi pratomo.ardianto@gmail.com jika tertarik menjadi salah satu kontributor.
+Silahkan **Fork**, dan submit **Pull Request** ke repo ini jika ingin berkontribusi.
 
 Terima kasih.
 
