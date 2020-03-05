@@ -40,6 +40,9 @@ Jl. Setia Budi Tengah No.37, RT.2/RW.3, Kuningan, Setia Budi, Kota Jakarta Selat
 **Topik:**
 - Extend Configuration Management with "Config Split" and "Config Ignore
 
+**Pembicara:**
+- Pratomo Ardianto
+
 **Sumber Video:** [Tautan](https://www.engineers.sg/video/extend-configuration-management-with-config-split-and-config-ignore-module-drupalcampsg-2018--2990)
 
 
@@ -48,6 +51,9 @@ Jl. Setia Budi Tengah No.37, RT.2/RW.3, Kuningan, Setia Budi, Kota Jakarta Selat
 **Waktu:** 24 November 2016<br />
 **Topik:**
 - Docker + Drupal 8
+
+**Pembicara:**
+- Pratomo Ardianto
 
 **Sumber Video:** [Tautan](https://www.engineers.sg/video/docker-drupal-8-drupal-developer-network-singapore--1280)
 
