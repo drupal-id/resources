@@ -22,7 +22,6 @@ Jl. Setia Budi Tengah No.37, RT.2/RW.3, Kuningan, Setia Budi, Kota Jakarta Selat
 **Sumber Video:** [Tautan](https://zoom.us/rec/play/tZd-I-38qDo3HNTA5ASDCqN7W425Jqus1ylP-PBcnRm9UiUBZwbyY7IbNrYwSh7fi0lKxPVTETtVOIak?continueMode=true)
 
 
-
 ### Meetup Drupal Indonesia di Februari 2020
 
 **Waktu:** Selasa, 30 Januari 2020 19.00 - 21.00 <br />
@@ -37,3 +36,21 @@ Jl. Setia Budi Tengah No.37, RT.2/RW.3, Kuningan, Setia Budi, Kota Jakarta Selat
 **Link Meetup:** [Tautan](https://www.facebook.com/events/563397524388498/)
 
 **Sumber Video:** [Tautan](https://www.facebook.com/events/563397524388498/permalink/572761176785466/)
+
+
+### DrupalCamp Singapore 2018
+
+**Waktu:** 14 July 2018<br />
+**Topik:**
+- Extend Configuration Management with "Config Split" and "Config Ignore
+
+**Sumber Video:** [Tautan](https://www.engineers.sg/video/extend-configuration-management-with-config-split-and-config-ignore-module-drupalcampsg-2018--2990)
+
+
+### Drupal Meetup Singapore 2016
+
+**Waktu:** 24 November 2016<br />
+**Topik:**
+- Docker + Drupal 8
+
+**Sumber Video:** [Tautan](https://www.engineers.sg/video/docker-drupal-8-drupal-developer-network-singapore--1280)
