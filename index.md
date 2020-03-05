@@ -1,4 +1,4 @@
-## Selamat Datang di Website Drupal ID Resources
+## Selamat Datang di Website Drupal Indonesia Resources
 
 Website ini menampilkan semua rekaman video dari meetup-meetup, session-session, pertemuan-pertemuan, dsb yang sudah pernah di organise sebelumnya, untuk keperluan dokumentasi dan menjadi bahan rujukan untuk pembelajaran yang berkaitan dengan Drupal.
 
