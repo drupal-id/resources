@@ -17,29 +17,25 @@ Jl. Setia Budi Tengah No.37, RT.2/RW.3, Kuningan, Setia Budi, Kota Jakarta Selat
 - OpenStreetMap @Drupal by Yantisa Akhadi, Country Manager Humanitarian OpenStreetMap Team Indonesia
 - Big Data with Drupal by Bayu Setiawan, Lead Data Engineer, Alterra
 
-**Link Meetup:** [Tautan](https://www.facebook.com/events/3314669618548901/)
-
+**Link Meetup:** [Tautan](https://www.facebook.com/events/3314669618548901/) <br />
 **Sumber Video:** [Tautan](https://zoom.us/rec/play/tZd-I-38qDo3HNTA5ASDCqN7W425Jqus1ylP-PBcnRm9UiUBZwbyY7IbNrYwSh7fi0lKxPVTETtVOIak?continueMode=true)
 
 
 ### Meetup Drupal Indonesia di Februari 2020
-
 **Waktu:** Selasa, 30 Januari 2020 19.00 - 21.00 <br />
 **Tempat:** Alterra Indonesia <br />
-Jl. Setia Budi Tengah No.37, RT.2/RW.3, Kuningan, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910, Indonesia
+Jl. Setia Budi Tengah No.37, RT.2/RW.3, Kuningan, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910, Indonesia 
 
 **Topik:**
 - Optimasi Drupal Commerce (Scalable Marketplace).
 - Road map kegiatan komunitas di tahun 2020.
 - Networking.
 
-**Link Meetup:** [Tautan](https://www.facebook.com/events/563397524388498/)
-
+**Link Meetup:** [Tautan](https://www.facebook.com/events/563397524388498/) <br />
 **Sumber Video:** [Tautan](https://www.facebook.com/events/563397524388498/permalink/572761176785466/)
 
 
 ### DrupalCamp Singapore 2018
-
 **Waktu:** 14 July 2018<br />
 **Topik:**
 - Extend Configuration Management with "Config Split" and "Config Ignore
