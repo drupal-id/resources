@@ -70,12 +70,13 @@ Jl. Setia Budi Tengah No.37, RT.2/RW.3, Kuningan, Setia Budi, Kota Jakarta Selat
 
 ### Drupal Meetup Tangerang 2015
 **Waktu:** 19 September 2015<br />
+**Tempat:** DILO Tangerang<br />
 **Topik:**
 - Drupal in Education Sector"
 
 **Pembicara:**
 - Hendro Wicaksono
 
-**Sumber Video 1:** [Tautan](https://www.youtube.com/watch?v=Lj0CzrR3g_0)
-**Sumber Video 2:** [Tautan](https://www.youtube.com/watch?v=jgb5p1ZtVvk)
-**Sumber Video 3:** [Tautan](https://www.youtube.com/watch?v=7kwd7ptz9cg)
+**Sumber Video 1:** [Tautan](https://www.youtube.com/watch?v=Lj0CzrR3g_0)<br />
+**Sumber Video 2:** [Tautan](https://www.youtube.com/watch?v=jgb5p1ZtVvk)<br />
+**Sumber Video 3:** [Tautan](https://www.youtube.com/watch?v=7kwd7ptz9cg)<br />
