@@ -5,6 +5,10 @@ Website ini menampilkan semua rekaman video dari meetup-meetup, session-session,
 Bagi semua anggota komunitas Drupal, di perkenankan ber-kontribusi untuk meng-update website ini.
 Silahkan **Fork**, dan submit **Pull Request** ke [repo ini](https://github.com/drupal-id/resources) jika ingin berkontribusi.
 
+Gabung dan ikuti update di:
+- Telegram Group: <a href="https://t.me/drupalID">Drupal Indonesia</a>.
+- Facebook Group: <a href="https://www.facebook.com/groups/drupal.indonesia/">Drupal Indonesia</a>.
+
 Terima kasih.
 
 ### Meetup Drupal Indonesia di Februari 2020
