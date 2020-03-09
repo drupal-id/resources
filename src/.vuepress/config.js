@@ -91,7 +91,7 @@ module.exports = {
       // The background of the header. You can choose to use an image, or to use random pattern (geopattern)
       background: {
         // URL of the background image. If you set the URL, the random pattern will not be generated, and the `useGeo` will be ignored.
-        url: '/assets/img/header-3.jpg',
+        url: 'https://i.ibb.co/SQfdFsh/header-1.jpg',
 
         // Use random pattern. If you set it to `false`, and you don't set the image URL, the background will be blank.
         useGeo: true,

@@ -11,4 +11,3 @@ The website is hosted using Github free service which is [Github Pages](https://
 ## Who Can, and How To Contribute To This Website?
 Anyone feel free to contribute to the website by adding more information about some other meetups, sessions, or any community events, along with the link to the respective videos.<br />
 Just **Fork** the repo, and create a **Pull Request** to contribute. Thank you!
-
