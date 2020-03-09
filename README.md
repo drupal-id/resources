@@ -9,5 +9,6 @@ This repo is a quick online solution to display a resources that (from now) are 
 The website is hosted using Github free service which is [Github Pages](https://pages.github.com/), using a free theme called *[Architect](//github.com/pages-themes/architect.git)*.
 
 ## Who Can, and How To Contribute To This Website?
-Anyone feel free to contribute to the website by adding more information about some other meetups, sessions, or any community events, along with the link to the respective videos.
+Anyone feel free to contribute to the website by adding more information about some other meetups, sessions, or any community events, along with the link to the respective videos.<br />
+Just **Fork** the repo, and create a **Pull Request** to contribute. Thank you!
 
