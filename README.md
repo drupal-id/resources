@@ -3,7 +3,7 @@
 **Live URL:** https://drupal-id.github.io/resources
 
 ## Introduction
-This repo is a quick online solution to display a resources that (from now) are mostly recorded videos that were taken from previous meetups, sessions, or any Drupal community events, as meant for archival purpose, and as a reference or sharing knowlegde to any individuals that willing to learn more about Drupal.
+This repo is a quick online solution to display a resources that (for now) are mostly recorded videos that were taken from previous meetups, sessions, or any Drupal community events, as meant for archival purpose, and as a reference or sharing knowlegde to any individuals that willing to learn more about Drupal.
 
 ## Technical Information
 The website is hosted using Github free service which is [Github Pages](https://pages.github.com/), using a free theme called *[Architect](//github.com/pages-themes/architect.git)*.
