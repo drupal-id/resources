@@ -29,11 +29,12 @@ Add new content/event by follow the steps as below:
    3. Modify the content in that file by still abiding the format in it. It's should be pretty straightforward once you look at it.
    4. Check whether the new content/event is showing up properly in you local. 
    5. Once OK, git commit that new file to the `master` branch.
-   6. Make a PR (Pull Request) against `master` branch.
+
 
 3. **Deploy the new content/event:**
-   1. Admin will review the PR before getting it merge.
-   2. Once the PR is OK and gets merged, the site will be updated by itself after few minutes. Please notify admin if there's any problem.
+   1. Make a PR (Pull Request) against `master` branch.
+   2. Admin will review the PR before getting it merge.
+   3. Once the PR is OK and gets merged, the site will be updated by itself after few minutes. Please notify admin if there's any problem.
 
 
 Thank you!
