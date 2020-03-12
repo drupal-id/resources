@@ -32,17 +32,8 @@ Add new content/event by follow the steps as below:
    6. Make a PR (Pull Request) against `master` branch.
 
 3. **Deploy the new content/event:**
-   1. Open file `deploy.sh`, and replace `drupal-id` portion with your own Github username in this part below on line 24.
-   
-   ```
-   git push https://github.com/<your-own-github-username>/resources.git master:gh-pages
-   ``` 
-   2. Run command `./deploy.sh`. This will create new branch called `gh-pages` in your own repo. **NOTE:** If for some reason you have that branch already in your repo, REMOVE it first.
-   3. Revert back the file of `deploy.sh`.
-
-4. **Finalising the deployment** (**NOTE:** for now this process is done manually by *admin*. In the future, it will setup CI/CD pipeline for automated deployment):
-   1. Admin will review the PR before gets merge.
-   2. Once the PR is OK and gets merged, admin will remove the `gh-pages` branch from the original repo, and replace the branch with the one from your forked repo.
+   1. Admin will review the PR before getting it merge.
+   2. Once the PR is OK and gets merged, the site will be updated by itself after few minutes. Please notify admin if there's any problem.
 
 
 Thank you!
