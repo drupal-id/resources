@@ -1,5 +1,7 @@
 # Drupal Indonesia Resources
 
+[![Build Status](https://travis-ci.com/drupal-id/resources.svg?branch=master)](https://travis-ci.com/drupal-id/resources)
+
 **Live URL:** https://drupal-id.github.io/resources
 
 ## Introduction
